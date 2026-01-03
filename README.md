@@ -160,6 +160,4 @@ Clore, J., Cios, K., DeShazo, J., & Strack, B. (2014). Diabetes 130-US Hospitals
 Medicare Hospital Readmissions Reduction Program (HRRP) - Centers for Medicare & Medicaid Services.
 
 👤 Author
-
-Paras Saini
-GitHub: https://github.com/CoderMrP
+Vansh Malik
